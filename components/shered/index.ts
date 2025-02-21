@@ -1,5 +1,5 @@
 export { Categories } from './categories';
 export {Title} from './title';
 export {Header} from './header' ;
-export {Container} from './container';
-export {SortPopup} from './sort-popup';
+export {Container} from '../ui/container';
+export { SortPopup } from './sort-popup';
